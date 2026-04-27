@@ -23,12 +23,12 @@ repository               : "quehenghua/quehenghua.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Quehenghua.png"
+  avatar           : "Quehenghua.jpg"
   name             : "Que Henghua(阙恒华)"
-  pronouns         : "he/him"  
-  bio              : "Junior Student, Sichuan University"
+  pronouns         : #"he/him"  
+  bio              : "Junior Student, School of Cyber Science and Engineering, Sichuan University"
   location         : "Chengdu, China"
-  employer         : "School of Cyber Science and Engineering, Sichuan University"
+  employer         : "Sichuan University"
   uri              : # URL
   email            : "2023141530153@stu.scu.edu.cn" 
   research         : "Content Security, Computer Vision, Deep Learning"
