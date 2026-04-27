@@ -30,7 +30,7 @@ My current research focuses on **Chinese harmful meme detection**, especially th
 ## News
 
 - 2026.04: 🎉 Our paper "AMKW: Adaptive Multi-view Knowledge Weighting for Chinese Harmful Meme Detection" was accepted by ICIC 2026.
-- 2025.12：🎉 Our provincial-level project "Insightful Detection: An MLLM-based System for Forgery Detection Explanation, Forensic Review, and Analytical Assessment" successfully passed the final evaluation.
+- 2025.12: 🎉 Our provincial-level project "Insightful Detection: An MLLM-based System for Forgery Detection Explanation, Forensic Review, and Analytical Assessment" successfully passed the final evaluation.
 - 2025.05: 🎉 Our project "Insightful Detection: An MLLM-based System for Forgery Detection Explanation, Forensic Review, and Analytical Assessment" was selected as a provincial-level project of the College Students Innovation Training Program in Sichuan Province.
 ---
 
