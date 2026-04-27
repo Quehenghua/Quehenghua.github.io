@@ -23,7 +23,7 @@ My current research focuses on **Chinese harmful meme detection**, especially th
 
 ## 📝 Publications
 
-**Henghua Que**, Yuxiang He, Haizhou Wang. AMKW: Adaptive Multi-view Knowledge Weighting for Chinese Harmful Meme Detection. ICIC 2026.
+- **Henghua Que**, Yuxiang He, Haizhou Wang. AMKW: Adaptive Multi-view Knowledge Weighting for Chinese Harmful Meme Detection. ICIC 2026.
 
 ---
 
@@ -35,6 +35,6 @@ My current research focuses on **Chinese harmful meme detection**, especially th
 ---
 
 ## 🎖 Awards & Honors
-- 2024.09:**Sichuan University Comprehensive Scholarship**
+- 2024.09: **Sichuan University Comprehensive Scholarship**
 - 2024.09: **Outstanding Student Award, Sichuan University**
-- 2025.09:**Sichuan University Comprehensive Scholarship**
+- 2025.09: **Sichuan University Comprehensive Scholarship**
