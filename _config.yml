@@ -23,7 +23,7 @@ repository               : "quehenghua/quehenghua.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Que Henghua(阙恒华)"
   pronouns         : #"he/him"  
   bio              : "Junior Student, School of Cyber Science and Engineering, Sichuan University"
