@@ -12,13 +12,13 @@ main:
     url: /#about-me
     
   - title: "📖 Educations"
-    url: /#📖 Educations
+    url: /#educations
 
   - title: "📝 Publications"
     url: /#publications
     
   - title: "🔥 News"
-    url: /#publications
+    url: /#news
     
   - title: "🎖 Awards & Honors"
     url: /#awards-honors
