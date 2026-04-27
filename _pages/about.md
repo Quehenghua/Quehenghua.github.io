@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Que Henghua / 阙恒华"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
