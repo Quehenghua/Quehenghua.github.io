@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Que Henghua / 阙恒华"
 title_separator          : "-"
-name                     : &name "阙恒华"
-description              : &description "阙恒华's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Que Henghua"
+description              : &description "Que Henghua's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://quehenghua.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,12 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Que Henghua(阙恒华)"
   pronouns         : #"he/him"  
-  bio              : "Junior Student, School of Cyber Science and Engineering, Sichuan University"
+  bio              : "Junior Student, School of Cyber Science and Engineering, Sichuan University. Research interests include content security, computer vision, and multimodal learning"
   location         : "Chengdu, China"
   employer         : "Sichuan University"
   uri              : # URL
   email            : "2023141530153@stu.scu.edu.cn" 
-  research         : "Content Security, Computer Vision, Deep Learning"
 
   # Academic websites
   academia         : # URL
